@@ -3,14 +3,16 @@ The  Brian Storm Of Being Bored
 
 Matthew Shannon Amos <matthewshannonamos01@gmail.com>
 9:50 PM (5 minutes ago)
-to Shreya, Hells, Judy, amos.marion70, albundy99, Trash, thomas, Lorraine, West, thunder.thighs.amos, Sony, Britt, brucethepieman, jenn.burley86, Brian, porterfamilyof4, polley, page, admirs00, Dianne, Near, Nroberts51
+
 
 Matthew Shannon Amos"cpn": "Dql6S2BFwIb2yUoR - YouTube
 
 
 https://www.youtube.com/watch?v=G6adUEDOhdY
-
-https://youtu.be/52XlC9R_DE             https://youtu.be/52XlC9R_DEQ
+                                                             www.rainwizzard@blogspot.com     
+https://youtu.be/52XlC9R_DE{{   }}AIzaSyBrLgEz2ag4WaiIE1_eB5AFTrHsH3DZP90}.0.{0..0}.0.{{AIzaSyBrLgEz2ag4WaiIE1_eB5AFTrHsH3DZP90{{   {{https://youtu.be/52XlC9R_DEQ
+           
+https://youtu.be/52XlC9R_DEQ
 
 https://www.youtube.com/watch?v=d6Ix6zvx6AE&list=PLNHCWvGVvUTuScxv6210MkGrGFpy8JK94&index=3
 
