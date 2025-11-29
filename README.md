@@ -273,7 +273,9 @@ Chodum01 Admiris01
    
 7:53 AM (9 minutes ago)
      
-7:53 AM (9 minutes ago)7times3 }}.=C2=B9=E2=99=A4=C2=-CINEMATIC.4.mp~.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.= =C2=B9=E2=99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.=C2=B9=E2=99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.=C2=B9=E2= =99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ 3times7 {{ 
+7:53 AM (9 minutes ago)
+
+7times3 }}.=C2=B9=E2=99=A4=C2=-CINEMATIC.4.mp~.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.= =C2=B9=E2=99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.=C2=B9=E2=99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.=C2=B9=E2= =99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ 3times7 {{ 
 
 
 7times3 }}.=C2=B9=E2=99=A4=C2=-CINEMATIC.4.mp~.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.= =C2=B9=E2=99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.=C2=B9=E2=99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.=C2=B9=E2= =99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ 3times7 {{ 
@@ -282,7 +284,9 @@ Chodum01 Admiris01
 <div id="tutorial-outer">
     <div id="tutorial-inner"></div>
     <div id="tutorial-content">
-        <div id="tutorial-centered">7times3 }}.=C2=B9=E2=99=A4=C2=-CINEMATIC.4.mp~.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.= =C2=B9=E2=99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.=C2=B9=E2=99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.=C2=B9=E2= =99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ 3times7 {{
+        <div id="tutorial-centered">
+         
+         7times3 }}.=C2=B9=E2=99=A4=C2=-CINEMATIC.4.mp~.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.= =C2=B9=E2=99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.=C2=B9=E2=99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ }}.=C2=B9=E2= =99=A4=C2=B3.{0..0}.=C2=B9=E2=99=A4=C2=B3.{{ 3times7 {{
 
             <div id="tutorial-text"></div>
             <div id="tutorial-controls">
